@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_bottom_1"
+        android:title="主页"
+        android:icon="@drawable/biz_plugin_weather_dabaoyu"/>
+    <item android:id="@+id/nav_bottom_2"
+        android:title="二页"
+        android:icon="@drawable/biz_plugin_weather_baoyu"/>
+    <item android:id="@+id/nav_bottom_3"
+        android:title="三页"
+        android:icon="@drawable/biz_plugin_weather_baoxue"/>
+    <item android:id="@+id/nav_bottom_4"
+        android:title="四页"
+        android:icon="@drawable/biz_plugin_weather_dayu"/>
+</menu>
